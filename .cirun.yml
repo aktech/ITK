@@ -6,7 +6,7 @@ runners:
     cloud: aws
     # AWS A1 Arm system
     instance_type: a1.4xlarge
-    # Ubuntu 20.04, 64 GB drive
+    # Ubuntu 20.04, 60 GB drive
     machine_image: ami-07f0ca6169539e591
     region: eu-west-1
     preemptible: false
