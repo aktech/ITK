@@ -1,6 +1,6 @@
 name: Test on CiRun
 
-on: [pull_request]
+on: [push]
 
 jobs:
   build-test-arm:
